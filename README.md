@@ -1,10 +1,10 @@
-# Vehicle Database (SQLite)
+# Vehicle Database (SQLite3)
 
-This repository contains a sample SQLite database file `vehicles.db` which is used to store vehicle and owner information, including multiple photo fields for facial and vehicle image data.
+This repository contains a sample SQLite3 database file `vehicles.db` which is used to store vehicle and owner information, including multiple photo fields for facial and vehicle image data.
 
 ## 🔧 What I Have Done
 
-- I created the database structure using SQLite.
+- I created the database structure using SQLite3.
 - Designed and built the `vehicles` table with the following fields:
   - Owner name, number plate (unique), vehicle type, model, and color.
   - BLOB fields to store:
